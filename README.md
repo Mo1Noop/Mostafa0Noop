@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#4DA8DA">Mostafa</span></h1>
+<h1 align="center"> Hello, I'm <span style="color:#4DA8DA">Mostafa</span></h1>
 <h3 align="center">🎮 Game Development Student | Unity & Python</h3>
 
 <p align="center">
