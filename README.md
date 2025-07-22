@@ -34,4 +34,7 @@
   <a href="https://github.com/Mostafa0Noop">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://monoopprogramer.itch.io/">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+  </a>
 </p>
