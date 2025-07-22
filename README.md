@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm <span style="color:#4DA8DA">Mostafa</span></h1>
-<h3 align="center">🎮 Game Development Student | Unity & C# & Python</h3>
+<h3 align="center">🎮 Game Development Student | Unity & C# </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4DA8DA&center=true&width=450&lines=Just+learning" />
