@@ -2,7 +2,7 @@
 <h3 align="center">🎮 Game Development Student | Unity & Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4DA8DA&center=true&width=450&lines=Just+having+fun+learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4DA8DA&center=true&width=450&lines=Just+learning" />
 </p>
 
 ---
