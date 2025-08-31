@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm <span style="color:#4DA8DA">Mostafa</span></h1>
-<h3 align="center">🎮 Game Development Student | Unity & C# </h3>
+<h3 align="center">🎮 Game Development Student | Godot & GDScript </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4DA8DA&center=true&width=450&lines=Just+learning" />
@@ -9,8 +9,7 @@
 
 ### 🧠 About Me
 
-- 🎯 Currently learning **Unity** for game development  
-- 🐍 Basic experience with **Python**  
+- 🎯 Currently learning **Godot 4.4** for game development  
 - 🛠️ I enjoy building real projects and improving step by step  
 
 ---
@@ -18,9 +17,8 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-FFDD00?style=for-the-badge&logoColor=000000" />
 </p>
 
 ---
