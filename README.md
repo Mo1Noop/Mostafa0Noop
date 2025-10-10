@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
--  Currently learning **Godot 4.4** for game development  
+-  Currently learning **Godot 4.5** for game development  
 -  I enjoy building projects and improving step by step  
 
 ---
